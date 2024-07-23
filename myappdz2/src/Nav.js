@@ -10,7 +10,8 @@ import Homecounter from './Homecounter.js';
 import Hometimer from './Hometimer.js';
 import MyApp from './Mycomponentfour.js'
 import Mycomponentfive from './Mycomponentfive.js';
-import { Routes, Route, Link } from 'react-router-dom'
+import { Routes, Route, Link } from 'react-router-dom';
+import "./nav.css";
 
 const Nav =()=>{
     return(
