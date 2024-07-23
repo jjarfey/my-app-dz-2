@@ -1,0 +1,10 @@
+.counter{
+    width: 80%;
+    margin: auto;
+    border: 2px solid red;
+    padding: 20px;
+}
+p {
+    font-size: 20px;
+    color: blue;
+}
